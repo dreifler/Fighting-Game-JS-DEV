@@ -1,0 +1,31 @@
+.navbar {
+    background-color: grey;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+}
+
+.navbar .navbar-brand {
+    color: blue;
+}
+
+.nav-item {
+    font-size: 1.5rem;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.message-window {
+    background: lightgray;
+    border: 2px solid blue;
+    height: 550px;
+}
+
+#home-container {
+    margin-top: 10px;
+}
+
+.chat-button {
+    margin-bottom: 10px;
+}

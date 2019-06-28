@@ -1,0 +1,41 @@
+html {
+    overflow-y: scroll;
+}
+
+canvas {
+    border: 1px solid black;
+}
+
+#fight-card {
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.player {
+    color: green;
+}
+
+.enemy {
+    color: red;
+}
+.card-body {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#punches-enemy, #landed-enemy {
+    margin-left: 10px;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    width: 200px;
+}
